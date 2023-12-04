@@ -1,1 +1,1 @@
-# dojo-jumb-game
+# jumb-game
